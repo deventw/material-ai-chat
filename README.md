@@ -2,7 +2,7 @@
 
 ## Overview
 
-A modern AI chat web application built with [React](https://react.org/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [Material UI](https://mui.com/). This project implements a chat interface similar to [ChatGPT](https://chat.openai.com/), allowing users to have interactive conversations with AI models.
+A small modern AI chat web application demo built with [React](https://react.org/), [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [Material UI](https://mui.com/). This project implements a chat interface similar to [ChatGPT](https://chat.openai.com/), allowing users to have interactive conversations with AI models.
 
 The app uses OpenRouter API to connect with `Mistral 7B Instruct(free)` and supports responsive design for various devices.
 
