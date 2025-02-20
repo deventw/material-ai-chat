@@ -41,3 +41,7 @@ yarn dev
 ```
 
 Visit `http://localhost:5173` to view the application, and setup the api key from OpenRouter API, enjoy.
+
+## Preview
+
+![Preview](/public//preview.png)
