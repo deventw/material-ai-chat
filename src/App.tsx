@@ -86,7 +86,7 @@ function App() {
           gap={2}
         >
           <Avatar
-            src="/public/cute-ai-chat.png"
+            src="/src/assets/cute-ai-chat.png"
             sx={{
               height: 80,
               width: 80,

@@ -18,7 +18,7 @@ export default function ChatMessage({ role, content }: Message) {
       borderRadius={2}
     >
       <Avatar
-        src={role === "assistant" ? "/public/cute-ai-chat.png" : undefined}
+        src={role === "assistant" ? "/src/assets/cute-ai-chat.png" : undefined}
         sx={{
           bgcolor: role === "user" ? "#FCBC06" : "#29C987",
           width: 40,
