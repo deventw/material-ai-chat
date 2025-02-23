@@ -86,7 +86,10 @@ function App() {
           gap={2}
         >
           <Avatar
+            src="/public/cute-ai-chat.png"
             sx={{
+              height: 80,
+              width: 80,
               bgcolor: "#FCBC06",
               animation: "bounce 2.4s infinite ease-in-out",
               "@keyframes bounce": {
