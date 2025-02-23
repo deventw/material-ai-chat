@@ -12,6 +12,7 @@ import { useStore } from "./stores/useStore";
 import { sendCompletion } from "./api/openrouter";
 import ApiKeyModal from "./components/ApiKeyModal";
 import ChatInput from "./components/ChatInput";
+import AIIcon from "./assets/cute-ai-chat.png";
 import ChatMessage from "./components/ChatMessage";
 
 function App() {
@@ -86,7 +87,7 @@ function App() {
           gap={2}
         >
           <Avatar
-            src="/src/assets/cute-ai-chat.png"
+            src={AIIcon}
             sx={{
               height: 80,
               width: 80,
